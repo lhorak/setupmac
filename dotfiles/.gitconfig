@@ -1,0 +1,13 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Lukas Horak
+	email = lhorak@securityscorecard.io
+	signingkey = C8CFC6E3D89AB8CD
+[alias]
+	cif = =
+	cif = =
+	cif = =
+	prum = pull --rebase upstream master
+[commit]
+	gpgsign = true
